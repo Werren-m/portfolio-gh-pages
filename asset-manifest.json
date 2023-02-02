@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Werren-m/portfolio-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/Werren-m/portfolio-gh-pages/static/js/main.12d46262.js",
+    "static/js/787.0a37a230.chunk.js": "/Werren-m/portfolio-gh-pages/static/js/787.0a37a230.chunk.js",
+    "static/media/logo.svg": "/Werren-m/portfolio-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Werren-m/portfolio-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/Werren-m/portfolio-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.12d46262.js.map": "/Werren-m/portfolio-gh-pages/static/js/main.12d46262.js.map",
+    "787.0a37a230.chunk.js.map": "/Werren-m/portfolio-gh-pages/static/js/787.0a37a230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12d46262.js"
+  ]
+}
